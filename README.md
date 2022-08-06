@@ -1,2 +1,1 @@
-# Multi-Class-Classification
-Multi-Class classification problems
+Модель прогнозирования выбора образовательных курсов пользователями
